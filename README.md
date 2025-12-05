@@ -35,27 +35,31 @@ To ensure rapid development and reliable performance, this version is intentiona
 ---------------------------------------------------------------------------------
 ##  4. Screenshots
 
-| Language Selection | Chat Interface (Hindi) | Eligibility Result | Learn Section |
-| :---: | :---: | :---: | :---: |
-| 
+| Language Selection | Chat Interface (Hindi),(Kannada) | Eligibility Result | Learn Section |
+| <img width="290" height="226" alt="image" src="https://github.com/user-attachments/assets/9ce6dec0-b227-499e-b610-c1dc110f4726" />
+| <img width="341" height="220" alt="image" src="https://github.com/user-attachments/assets/fde197a3-6f9e-4fd8-99be-928ae82fa705" />
+| <img width="360" height="737" alt="image" src="https://github.com/user-attachments/assets/a4eb3290-1deb-41ac-b701-85dcccc0a58c" />
+
 
 [Image of Language Selector]
- | 
+ | <img width="355" height="249" alt="image" src="https://github.com/user-attachments/assets/2762efff-1dce-4ffa-ad2a-fbdf26915ecb" />
+
 [Image of Chat Screen]
- | 
+ | <img width="348" height="770" alt="image" src="https://github.com/user-attachments/assets/54653cd1-bd22-49b3-8a40-56b1cb49339e" />
+
 [Image of Result Card]
- |  |
+ | <img width="336" height="220" alt="image" src="https://github.com/user-attachments/assets/2353d9a2-eea0-4466-856d-d717c31cce02" />
+  
  ---------------------------------------------------------------------------------
  ##  5. Team & Contributions
 
-This project was built by a team of 4 dedicated developers/designers over [X] hours.
+This project was built by a team of 1 dedicated developer and designer over 7 hours.
 
-| Role | Team Member | Primary Contribution |
-| :--- | :--- | :--- |
-| Android Developer (Front-End) | [] | Chat UI, Language Selector, Multilingual Implementation |
-| Android Developer (Logic & State) | [Name 2] | Conversation Flow, Eligibility Calculator, Learn Screen Logic |
-| Designer / UI Developer | [Name 3] | Figma Design, Aesthetics, Asset Preparation |
-| Content & Presentation | [Name 4] | Hindi/English Content, Eligibility Rules, Final Presentation |
+| 
+| Android Developer (Front-End) | [ASWATH DAGGUBATI] | Chat UI, Language Selector, Multilingual Implementation |
+| Android Developer (Logic & State) / Conversation Flow, Eligibility Calculator, Learn Screen Logic |
+| Designer / UI Developer / Figma Design, Aesthetics, Asset Preparation |
+| Content & Presentation |  Hindi/English Content, Eligibility Rules, Final Presentation |
 ----------------------------------------------------------------------------------
 ##  6. Future Scope (What comes next)
 
@@ -64,3 +68,5 @@ If we had more time, we would implement:
 1.  **Actual LLM Integration:** Migrate the rule-based chat logic to the Gemini API for truly dynamic, context-aware responses and real-time financial education.
 2.  **OCR/Document Scanning:** Use ML Kit to scan income documents or Aadhaar cards.
 3.  **Local Persistence:** Store user conversation history using SQLite or Preferences.
+4.  **Installed an APK file of the app on an actual android 11+ device**
+5.  **Used figma for additional aesthetics and design.
